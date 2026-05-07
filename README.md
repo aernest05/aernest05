@@ -53,4 +53,4 @@ Interactive dashboard for visualizing financial API data usage across internal u
 ## Contact
 
 - alexanderernest2010@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/) <- add your LinkedIn URL here
+- [LinkedIn](https://www.linkedin.com/in/alexander-ernest-oedyanto-7983002aa/)
