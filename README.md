@@ -44,10 +44,6 @@ Fully functional MLP implemented in pure NumPy — forward pass, backpropagation
 VGG-inspired CNN achieving 98.7% test accuracy on Kaggle's MNIST digit classification dataset.
 `PyTorch` `Python`
 
-### [Financial Dashboard](https://github.com/aernest05/financial-dashboard)
-Interactive dashboard for visualizing financial API data usage across internal users.
-`Python` `Streamlit`
-
 ---
 
 ## Contact
